@@ -1,0 +1,21 @@
+What is java?
+Java is a high-level, object-oriented, and platform-independent programming language developed by Sun Microsystems in 1995, now owned by Oracle.
+It follows the ‘Write Once, Run Anywhere’ principle, meaning Java code can run on any device that has the Java Virtual Machine installed.
+Java is known for being secure, robust, and scalable, which is why it’s used in a wide range of applications—from Android apps and web applications 
+to enterprise systems and banking solutions. Its strong memory management and built-in security features make it a preferred choice for reliable 
+software development.
+                       OR
+"Java is a high-level, object-oriented, and platform-independent programming language that follows the ‘Write Once, Run Anywhere’ principle.
+It’s secure, robust, and widely used for building everything from Android apps to enterprise systems,thanks to its scalability and reliability.
+
+What are JAVA features?
+Java offers several key features that make it popular among developers:
+Platform Independent – Java code runs on any system with a JVM.
+Object-Oriented – Encourages modular and reusable code using concepts like classes, objects, inheritance, and polymorphism.
+Simple – Its syntax is straightforward and easy to learn for those familiar with C/C++.
+Secure – Provides built-in security features like bytecode verification and no explicit pointer use.
+Robust – Strong memory management and exception handling reduce errors.
+Multithreaded – Supports multiple threads for concurrent execution.
+High Performance – Uses Just-In-Time (JIT) compilation for faster execution.
+
+
